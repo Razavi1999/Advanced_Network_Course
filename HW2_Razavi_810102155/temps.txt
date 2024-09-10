@@ -1,0 +1,23 @@
+total 2320
+-rwxrwxr-x 1 mahdi mahdi   18696 Nov 16 21:38 a.out
+-rwxrwxr-x 1 mahdi mahdi   18520 Nov 18 10:30 client.o
+-rw-rw-r-- 1 mahdi mahdi      57 Nov  5 00:59 configuration.txt
+-rwxrwxr-x 1 mahdi mahdi   18520 Nov 18 10:19 ftp-client
+-rwxrwxr-x 1 mahdi mahdi    6064 Nov 18 10:30 ftp-client.cpp
+-rw-rw-r-- 1 mahdi mahdi       0 Nov  3 23:24 ftp-client.cpp1
+-rw-rw-r-- 1 mahdi mahdi    3871 Nov  3 23:26 ftp-client.cpp11
+-rw-rw-r-- 1 mahdi mahdi       0 Nov  3 23:30 ftp-client.cpp111
+-rw-rw-r-- 1 mahdi mahdi    3882 Nov  3 23:31 ftp-client.cpp1111
+-rw-rw-r-- 1 mahdi mahdi       0 Nov  3 23:36 ftp-client.cpp11111
+-rwxrwxr-x 1 mahdi mahdi    2778 Nov  3 22:55 ftp-client.cpp.save
+-rwxrwxr-x 1 mahdi mahdi   18696 Nov 18 10:19 ftp-server
+-rwxrwxr-x 1 mahdi mahdi    4520 Nov 18 10:30 ftp-server.cpp
+-rw-rw-r-- 1 mahdi mahdi       0 Nov  3 23:36 ftp-server.cpp1
+-rw-rw-r-- 1 mahdi mahdi    3223 Nov  3 23:36 ftp-server.cpp11
+-rw-rw-r-- 1 mahdi mahdi 2224333 Nov 10 13:50 HW2_Razavi_810102155_Advanced_Network.pdf
+-rwxrwxr-x 1 mahdi mahdi   18696 Nov 18 10:53 server.o
+-rw-rw-r-- 1 mahdi mahdi       7 Nov 16 21:35 server.o1
+-rw-rw-r-- 1 mahdi mahdi       0 Nov 18 09:48 server.o11
+-rw-rw-r-- 1 mahdi mahdi       0 Nov 18 09:51 server.o111
+-rw-rw-r-- 1 mahdi mahdi      60 Nov 18 10:54 temp-pwd.txt
+-rw-rw-r-- 1 mahdi mahdi       0 Nov 18 10:55 temps.txt
